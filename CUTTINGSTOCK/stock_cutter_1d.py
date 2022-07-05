@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 '''
 Original Author: Serge Kruk
 Original Version: https://github.com/sgkruk/Apress-AI/blob/master/cutting_stock.py
 
 Updated by: Emad Ehsan
 '''
+=======
+>>>>>>> 1a9e1ef (Initial commit)
 from ortools.linear_solver import pywraplp
 from math import ceil
 from random import randint
